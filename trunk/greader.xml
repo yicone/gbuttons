@@ -1,33 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <custombuttons xmlns="http://toolbar.google.com/custombuttons/">
   <button>
-	<site>http://www.google.com/reader/view/</site>
-	<title>Google Reader</title>
-	<description>Google Reader</description>
-	<feed refresh-interval="900" refresh-onclick="false" google-service="false">http://www.google.com/reader/atom/</feed> 
-	<icon>
-AAABAAEAEBAAAAAAAABoBAAAJgAAABAQAAAAAAAAaAUAAI4EAAAoAAAAEAAAACAAAAABACAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAuXlz/7l0bv+5dG7/uXlz/7l5c/+5dG7/
-uXlz/7l5c/+qeHT/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArYJ+//Slnv/3wr3/8LSv//Slnv/x
-mpP/8ZqT//Gak//xmpP/zKKf/6Zwa/8AAAAAAAAAAAAAAAAAAAAAAAAAALyJhP/80c3/////////
-///xmpP/98K9//7s6//4q6T/+cnF//fe3f+mcGv/AAAAAAAAAAAAAAAAAAAAAAAAAAC8iYT/+cnF
-///08//+7Ov/8ZqT//nJxf//////8ZqT//zZ1v/06ej/pnBr/8ysqf/MrKn/AAAAAAAAAAAAAAAA
-vImE//izrf/xmpP/8ZqT//Slnv/+7Ov///Tz//Slnv/+7Ov/997d/6Zwa//3wr3/6cbE/8ysqf8A
-AAAAzZmU/7yJhP/0pZ7/+Lq1//nJxf/+5uP///////i6tf/4urX///////fCvf+laGP/997d//Tp
-6P/MrKn/zZmU//C0r/+8iYT/9KWe//7m4/////////Tz//i6tf/0pZ7///Tz///08//orKf/pWhj
-//7m4///9PP/zKyp/8yin//82db/vImE//izrf/0pZ7/9KWe//izrf/4urX///Tz///////3wr3/
-9KWe/6VoY///9PP/9Ono/8ysqf/Mop///NHN/7yJhP/3wr3/+cnF//zZ1v/+7Ov////////08//5
-ycX/+LOt//irpP+laGP///////zZ1v/Mop//zKKf//fCvf+8iYT/6Kyn//7s6///9PP//uzr//zZ
-1v/3wr3/+Lq1//i6tf/Mop//pnBr///39//80c3/zKKf/8yin//4urX/+cnF/62Cfv+tgn7/rYJ+
-/62Cfv+qeHT/qnh0/6p4dP+qeHT/qnh0///////82db/+cnF/8yin//Mop//+LOt//7s6///////
-//f3//i6tf/4s63//uzr///08//4urX/vImE///39//33t3//NHN//nJxf/Mop//zKKf//fCvf/4
-urX/+Lq1//fCvf/4urX//uzr///////5ycX/8LSv/62Cfv/82db//NnW//zZ1v/pxsT/zKyp/8yi
-n//80c3//NHN//fe3f/+7Ov///////Tp6P/3wr3/8LSv/+isp/+qeHT/zKyp/8ysqf/MrKn/zKyp
-/wAAAADMop//57i1///08///9/f///Tz//fe3f/80c3/+cnF//fCvf/nuLX/vImE/wAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAMyin/+7lpP/u5aT/7uWk/+7lpP/u5aT/7uWk/+7lpP/u5aT/wAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAOAPi7zAB1DgwAcsAMABAADAAADdgAAAAAAAAAAAAAAAAAAAAAAA
-BLAAABBUAAAQVAAAAAIAAQAHAB8AAIA/itA=</icon>
-	<feed-description> There are new items to be read </feed-description> 
+    <title>Google Reader</title>
+    <description>http://www.google.com/reader/view/#stream/user%2F0</description>
+    <search charset="UTF-8">http://www.google.com/reader/view/#search/{query}/</search>
+    <site>http://www.google.com/reader/view/#stream/user%2F00536007943407114255%2Fstate%2Fcom.google%2Fstarred</site>
+	<!--ÓÃ»§ÕÊºÅ£º00536007943407114255»ò14051881878707754474-->
+<feed refresh-interval="900" refresh-onclick="false" google-service="false">http://www.google.com/reader/atom/</feed> 
+    <icon>
+AAABAAIAEBAAAAAAAABoBQAAJgAAABAQAAAAAAAAaAQAAI4FAAAoAAAAEAAAACAAAAABAAgAAAAA
+AEABAAAAAAAAAAAAAAAAAAAAAAAA////AJPduQCN2bQAhNStAHzOpQB1yqAAc8mgAIPTrADZ++AA
+4P3jAOX/5gDg/eQA2fvfANH32gDH9NUAvfDPALPrygCo58MA1/reAN784gBra80AdMmfANL32wDt
+7fkA9vb8AOzs+ADn5/cA4+P1AN3d8wDR0e8Azs7uALa25gCZVioAoaG5AMPD6wDAwOoA7L2kAPXT
+wQDyuJsA77CQAO2ohgDkoH0A25NqAOaIWwDKfkwAvLzoALKy5ADyy7YA8tfJAO6ZcADkhVgA2YFT
+ANh9TwCysr4A9cOrAPXq5ADadkYAynpGAMXFxQDJye0AqqriAOmOYwD28O0A5K2QAPPz+wCjo98A
+5Zl0ANeLYADKdDwAmJjcAMlsMwC5uecA/Pf0AMNpLQDCwsMA56WEAMaDVgCPj7IAfHzSAPfj2QBd
+XaIA0JJoAMJlKwCvXSMA////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+/wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////
+AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A
+////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD/
+//8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+/wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////
+AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A
+////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD/
+//8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+/wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////
+AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A
+////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD/
+//8A////AP///wD///8A////ACAgICAgICAgICAgICAgICAgLDMqLENDSSwsUyAgICAgIEMAAEYA
+AERPACwgUBQUICAoAD8qAABGAABMIE0fThQgKjMxAAAvPwAASSA6AB8UICYAAAAJPTcAL0YgOgAf
+FCAkAAAlMSUAADNGIDoARRQgPz09JjcAACgsNCA6AEEUIDY3AAAAACYzNCwgOh48FCAvAAAAJTEz
+MywzICEfHxQgJCUlJCgoKEMzLCAeHzwUICAgICAgICAgICAhHjweFCAgFQ4UFwAAFxwXHB4eHxQg
+IAQMCBQUFE4UFBQUFBQgICADCAkJCQgODg4REQMgICAgIAEBAQEBAgMEBBUgICCAH9RcAA/OoAAB
+1BwAAM6gAADUJAAAzqAAANQsAADOoAAA1FwAAM6gAADUPIAAzqDAANREwAHOoMAD1EzgB86gKAAA
+ABAAAAAgAAAAAQAgAAAAAABABAAAAAAAAAAAAAAAAAAAAAAAAAAAAACZVir/mVYq/5lWKv+ZVir/
+mVYq/5lWKv+ZVir/mVYq/5lWKv+ZVir/AAAAAAAAAAAAAAAAAAAAAAAAAACZVir/ynQ8/9eLYP/b
+k2r/ynQ8/9CSaP/Xi2D/wmUr/8p6Rv/Kfkz/r10j/5lWKv8AAAAAAAAAAAAAAAAAAAAAmVYq/9uT
+av///////Pf0/8p0PP///////////8p0PP/349n//////8p+TP+ZVir/XV2i/2trzf9ra83/AAAA
+AJlWKv/npYT//////+StkP/lmXT///////z39P/KdDz////////////Gg1b/mVYq/4+Psv+2tub/
+fHzS/2trzf+ZVir/25Nq/9mBU//koH3//Pf0///////yy7b/5K2Q////////////w2kt/5lWKv/C
+wsP//////7a25v9ra83/mVYq//K4m//////////////////16uT/6Y5j//bw7f//////8su2/8ls
+M/+ZVir/xcXF//////+5uef/a2vN/5lWKv/svaT////////////108H/5Zl0//XTwf//////////
+/9eLYP/KdDz/mVYq/8XFxf//////mJjc/2trzf+ZVir/77CQ/+mOY//pjmP/8rib//bw7f//////
+/////+StkP/Kekb/2nZG/5lWKv/FxcX/8/P7/6Oj3/9ra83/mVYq//XDq//16uT/////////////
+/////////++wkP/ZgVP/2nZG/8p6Rv+ZVir/xcXF/8nJ7f+qquL/a2vN/5lWKv/yy7b/////////
+////////8tfJ/+6ZcP/khVj/2YFT/8p+TP/YfU//mVYq/7Kyvv+ysuT/vLzo/2trzf+ZVir/7L2k
+//XTwf/108H/8rib/++wkP/tqIb/5KB9/9uTav/miFv/yn5M/5lWKv/Dw+v/vLzo/7Ky5P9ra83/
+AAAAAJlWKv+ZVir/mVYq/5lWKv+ZVir/mVYq/5lWKv+ZVir/mVYq/5lWKv+hobn/w8Pr/7a25v/A
+wOr/a2vN/wAAAAAAAAAAdMmf/9L32/9ra83/7e35//b2/P/29vz/7Oz4/+fn9//j4/X/3d3z/9HR
+7//Ozu7/trbm/2trzf8AAAAAAAAAAHPJoP/X+t7/3vzi/2trzf9ra83/a2vN/2trzf9ra83/a2vN
+/2trzf9ra83/a2vN/2trzf8AAAAAAAAAAAAAAACD06z/2fvg/+D94//l/+b/4P3k/9n73//R99r/
+x/TV/73wz/+z68r/qOfD/4PTrP8AAAAAAAAAAAAAAAAAAAAAAAAAAJPduf+T3bn/k925/5Pduf+T
+3bn/jdm0/4TUrf98zqX/dcqg/3PJoP8AAAAAAAAAAAAAAACAH9RcAA/OoAAB1BwAAM6gAADUJAAA
+zqAAANQsAADOoAAA1FwAAM6gAADUPIAAzqDAANREwAHOoMAD1EzgB86g
+    </icon>
+	<feed-description> There are new items to be read </feed-description>
 	<feed-icon>
 AAABAAEAEBAAAAAAAABoBAAAJgAAABAQAAAAAAAAaAUAAI4EAAAoAAAAEAAAACAAAAABACAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH0y/wB4MP8AeDD/AH0y/wB9Mv8AeDD/
@@ -50,8 +76,5 @@ Qv8A1FX/ANRV/wDgWv8A7V//AP9m/wDoXf8AxE7/ALhK/wCwRv8AejH/AK1F/wCtRf8ArUX/AK1F
 AAAAAAAAAAAAAAAAAAAAAACmQv8AmT3/AJk9/wCZPf8AmT3/AJk9/wCZPf8AmT3/AJk9/wAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAOAPi7zAB1DgwAcsAMABAADAAADdgAAAAAAAAAAAAAAAAAAAAAAA
 BLAAABBUAAAQVAAAAAIAAQAHAB8AAIA/itA=</feed-icon>
-
-	<!-- Button created by electragician - electragician@gmail.com -->    
-    
-  <update>http://www.knology.net/~mwkelley/googlereaderbutton.xml</update></button>
+  <update/></button>
 </custombuttons>
